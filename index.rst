@@ -48,7 +48,7 @@
 
    **This technote is not yet published.**
 
-   Fibers at the Summit
+   Fibers deployed at the Summit
 
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
