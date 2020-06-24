@@ -19,7 +19,10 @@
 Introduction
 ============
 
-The following is the detail of the fibers deployed at the summit.
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |.
 
 First Floor
 ===========
