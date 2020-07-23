@@ -72,6 +72,7 @@ Second Floor
 -------------
 
 On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+
 - 72 Network points in total
 - 5 Access points
 - 3 24-port patch panel with modular jack, category 6A, 4 pair
