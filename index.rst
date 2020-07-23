@@ -43,9 +43,9 @@ therefore, only floors with existing connections will be documented with plans.A
 
 To report, all fiber optic connections on the various floors of the main building come from floor 2 in the computer room in rack A7. In this rack, all the optical headers are concentrated and there are different points of the main building and also different points of the hill.
 
-==================
+=======================
 Documentation by Floor
-==================
+=======================
 
 First Floor
 ------------
@@ -66,7 +66,7 @@ First Floor Image
 ^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/piso1.PNG
           :name: piso1
-          :width: 400 px
+          :width: 500 px
           
        
 Second Floor
@@ -86,7 +86,7 @@ Second Floor
 ^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/piso2.jpg
     :name: piso2
-    :width: 400 px
+    :width: 500 px
     
 Third Floor
 -----------
@@ -113,7 +113,7 @@ Coating Chamber Image
 
 .. figure:: /_static/ittn-main/coating.PNG
     :name: coating
-    :width: 400 px
+    :width: 500 px
     
 Camera Room
 -----------
@@ -130,7 +130,7 @@ Camera Room Image
 
 .. figure:: /_static/ittn-main/camera.PNG
     :name: camera
-    :width: 400 px
+    :width: 500 px
 
 Level 3 Integration Lab
 -----------------------
@@ -143,7 +143,7 @@ Level 3 Integration Lab Image
 
 .. figure:: /_static/ittn-main/integracion.jpg
     :name: integracion
-    :width: 400 px 
+    :width: 500 px 
 
 It should be explained that the level 3 integration Lab project it was implemented to solve the arrival of equipment that needs connection and tests and the places are not yet finished and in this way configure and carry out tests in this place.
 2 types of optical fiber were selected (single-mode and multimode optical fiber). In each place shown in the drawing, it will have an optical terminal with the 2 types of fibers depending on the type of equipment to be connected.
@@ -177,7 +177,7 @@ fifth-floor image
 ^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/piso5.png
     :name: piso5
-    :width: 400 px
+    :width: 500 px
     
  
 The rack is currently in the electronic laboratory.This rack comes with a 24 strand fiber optic cable. direct from floor 2 in rack A7 computer room.
@@ -193,7 +193,7 @@ Future Floor Image
 
 .. figure:: /_static/ittn-main/pisos-futuros.PNG                                                                                                                            
     :name: piso futuro
-    :width: 400 px
+    :width: 500 px
 
 In the previous design, it is a proposal of how the upper floors should look in terms of fiber optic connections. Now I will leave a design of how the fiber optic headers are composed on the second floor in the rack A7 computer room.
 
@@ -201,7 +201,7 @@ Fiber Headers Images
 ^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/cabeceras.jpg
     :name: cabeceras
-    :width: 400 px
+    :width: 500 px
 
 .. fin de contenido
 
