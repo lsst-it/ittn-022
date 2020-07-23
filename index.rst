@@ -43,7 +43,6 @@ therefore, only floors with existing connections will be documented with plans.A
 
 To report, all fiber optic connections on the various floors of the main building come from floor 2 in the computer room in rack A7. In this rack, all the optical headers are concentrated and there are different points of the main building and also different points of the hill.
 
-=======================
 Documentation by Floor
 =======================
 
@@ -194,6 +193,9 @@ Future Floor Image
 .. figure:: /_static/ittn-main/pisos-futuros.PNG                                                                                                                            
     :name: piso futuro
     :width: 700 px
+
+Fiber Headers
+--------------
 
 In the previous design, it is a proposal of how the upper floors should look in terms of fiber optic connections. Now I will leave a design of how the fiber optic headers are composed on the second floor in the rack A7 computer room.
 
