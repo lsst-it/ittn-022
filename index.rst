@@ -26,6 +26,16 @@ In the following document and information to be provided, it is related to the i
 The UTP S/FTP cable was selected for its properties to work at 10G / base T and all network points will be installed with this type of cable, both for AP and telephone connections. As for everything that is user cord is with UTP cat 6 cable
 On some occasions, the multimode cable will be installed, only on the occasions that the equipment needs it.
 
+
+.. figure:: /_static/Tabla.PNG 
+    :name: Tabla
+            :width: 700 px
+            
+
+
+
+
+
 Places to treat the document
 -----------------------------
 
