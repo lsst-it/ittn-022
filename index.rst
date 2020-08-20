@@ -21,10 +21,7 @@
 Introduction
 ============
 
-In the following document and information to be provided, it is related to the installation, the material, and the location of the network points, such as fiber optics. This document will present information on the location of the points, quantity, and also the location and quantity of fiber filaments per floor. This document reflects how the physical network of the main building is built and how it is a project still under construction that may undergo changes in the future such as adding connection points and taking out. The materials used were selected for their quality and properties so that the project in its operation works at its maximum performance The fiber optic points single-mode cable was installed since in practice there is no transmission limit, only the equipment that transmits.
-
-The UTP S/FTP cable was selected for its properties to work at 10G / base T and all network points will be installed with this type of cable, both for AP and telephone connections. As for everything that is user cord is with UTP cat 6 cable
-On some occasions, the multimode cable will be installed, only on the occasions that the equipment needs it.
+The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This document also reflects how the physical network of the main building is built by putting an emphasis on the fact that the project is still undergoing construction and may undergo changes in the near future such as adding additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that when the project is in the operations phase it will work at maximum performance. Single-mode fiber was selected and installed hence it provides an unlimited transmission limit, but this will only be used for the equipment that performs the function of transmitting (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to be able to work at 10GBASE-T speeds. All network points were installed with this type of cable, for both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was installed, and last but not least it is important to mention that on some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
 
 
 .. figure:: /_static/Tabla.PNG 
@@ -36,10 +33,8 @@ On some occasions, the multimode cable will be installed, only on the occasions 
 
 
 
-Places to treat the document
------------------------------
-
-The places covered in this document are as follows:
+Areas of interest
+-----------------
 
 - First floor
 - Second floor
@@ -48,18 +43,23 @@ The places covered in this document are as follows:
 - Fifth floor
 - Installation of future floors
 
-This document details the connections for both copper and fiber optic floors.Also remember that from the location of the fourth floor, from the 5th floor to the dome, we still do not have connection requests.
-therefore, only floors with existing connections will be documented with plans.Also a future design for fiber optic connections from the fifth floor from the pier to the dome.
 
-To report, all fiber optic connections on the various floors of the main building come from floor 2 in the computer room in rack A7. In this rack, all the optical headers are concentrated and there are different points of the main building and also different points of the hill.
 
-Documentation by Floor
+This document explains briefly the various connections used, both copper and fiber for the various areas located in the main building. This technote documents both the blueprint and floors with the already existing connections. In the near future, fiber optic connections will also be set up and installed on the 5th floor of the main building all the way up to where the dome is located.
+
+
+Please note, that all fiber optic connections on the various floors come from the second-floor computer room in rack A7. All of the optical terminals from the various floors lead up to the optical headers of this rack.   
+
+
+Documentation by floors
 =======================
 
 First Floor
-------------
+-----------
 
-On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+The first floor is made up of various elements, that include characteristics in regard to the materials used and numbering of the various network points. 
+
+First Floor:
 
 - 30 Network points in total
 - 5 Access points
@@ -69,7 +69,6 @@ On this floor, it consists of the following characteristics in terms of material
 - 2 24-port switch
 - 1 13U wall rack
 
-All fiber optic connections come from the second floor in rack A7. Diagram of network points on the First floor and location of the rack with the connection components.
 
 First Floor Image
 ^^^^^^^^^^^^^^^^^^
@@ -79,9 +78,11 @@ First Floor Image
           
        
 Second Floor
--------------
+------------
 
-On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+The first floor is made up of various elements, that include characteristics in regard to the materials used and numbering of the various network points. 
+
+Second Floor:
 
 - 72 Network points in total
 - 5 Access points
@@ -89,8 +90,11 @@ On this floor, it consists of the following characteristics in terms of material
 - 3 48-port switch
 - 48U rack (A3)
 
-On this floor, it is not considered an optical header connection since these switches are directly connected to the distribution switch.
-These connections come from rack A3 inside the CR. Diagram of network points on the Second floor and location of the rack with the connection components.
+
+This floor does not consider and optical header connections, since the switches used are directly connected to the distribution switch. All of these connections are born from rack A3 located inside the main computer room.
+
+In the following diagram, you can appreciate the various network points and location of the rack with its connected components. 
+
 
 Second Floor
 ^^^^^^^^^^^^^
@@ -100,14 +104,19 @@ Second Floor
     
 Third Floor
 -----------
-This floor is made up of 2 main connections to feed 2 sectors of floor 3.
+
+This floor is made up of 2 main connections, these connections feed the 2 sectors located in floor 3.
 
 - Coating chamber
 - Camera room (clean room and clean room)
-- Level 3 Integration Lab
+- Level 3 Integration Lab (This is currently not set up with connectivity yet)
 
-These connections come from floor 2 of rack A7 and supply the rack that is on the side of the coating, in the rack of the coating office and in the camera room in the rack that is in the ante clean and white room.
-On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+
+All of these connections are born from the computer room, rack A7 located on the second floor of the main building. Rack A7 also provides connectivity to the rack found in the coating room and also to the rack found in the Camera room (Clean Room and White Room).
+
+
+
+The third floor is made up of various elements, that include characteristics in regard to the materials used and numbering of the various network points. 
 
 Coating Chamber
 ---------------
@@ -155,21 +164,21 @@ Level 3 Integration Lab Image
     :name: integracion
     :width: 700 px 
 
-It should be explained that the level 3 integration Lab project it was implemented to solve the arrival of equipment that needs connection and tests and the places are not yet finished and in this way configure and carry out tests in this place.
-2 types of optical fiber were selected (single-mode and multimode optical fiber). In each place shown in the drawing, it will have an optical terminal with the 2 types of fibers depending on the type of equipment to be connected.
 
-- All fiber optic connections come from the second floor in rack A7
+Please note that a Level 3 test lab environment will be set up in the future, as a workaround to solve any networking requirements in the future for the dome or any other inquiries. 
+
+To build this lab environment, we will use 2 types of optical fibers (Single-Mode and Multi-Mode), In each of the areas shown in the image above. This lab environment will also have an optical terminal on the main pillars of the building located in this area. Each of these terminals will have available 2 types of fiber optic connections, this will depend solely on the equipment connected to these pillars. 
 
 
 Fourth floor
 ------------
 
-No job applications
+There are currenlty no networking requirements for this floor. 
 
 Fifth floor
 -----------
 
-On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+The fifth floor is made up of various elements, that include characteristics in regard to the materials used and numbering of the various network points. 
 
 - 24 Network points in total
 - 1 Access points
@@ -178,10 +187,9 @@ On this floor, it consists of the following characteristics in terms of material
 - 1 24-port switch
 - 1 13U wall rack
 
-All fiber optic connections come from the second floor in rack A7
 
 
-Diagram of network points on the fifth floor and location of the rack with the connection components.
+In the following diagram, you can appreciate the various network points and location of the rack with its connection components. 
 
 fifth-floor image
 ^^^^^^^^^^^^^^^^^^
@@ -190,13 +198,15 @@ fifth-floor image
     :width: 700 px
     
  
-The rack is currently in the electronic laboratory.This rack comes with a 24 strand fiber optic cable. direct from floor 2 in rack A7 computer room.
+This rack is currently located in the electronics laboratory, it has 24 fiber optic filaments that connect directly to rack A7 located in the main computer room on the second floor of the building. 
 
 
 Installation of Future Floors
 -----------------------------
 
-In the future, a 96-strand fiber optic cable will be installed to connect the upper floors such as floor 5, floor 6, floor 7, floor 8, etc. And this new cable will replace the cable installed for the electronic laboratory and take the connections for such a floor. This idea arises since we do not have requests for the upper floors and we prepare for future requests for connections.The splice mufa will remain in the inter-ceiling of the 5th floor and from there the connections for the electronic laboratory of the 5th floor will be born. Pier and lower of the 5th floor, 6th floor, 7th floor, 8th floor, dome, etc.
+It is also important to mention that in the future, it is contemplated to have a 96 fiber optic filament cable that will be installed to connect the upper floors such as floor 5,6,7 and 8, along with any other requirements in the future. This cable will replace the current connection that's in place in the electronics laboratory and at the same time, this filament will connect to the Optical fiber splice enclosure (MUFA) located on that floor. 
+
+The idea of setting up and installing this connection arose from the fact that we currently haven't gotten any requirements for the upper floors and we feel that is necessary to be prepared for such requests in the future. 
 
 Future Floor Image
 ^^^^^^^^^^^^^^^^^^
@@ -206,12 +216,14 @@ Future Floor Image
     :width: 700 px
 
 Fiber Headers
---------------
+-------------
 
-In the previous design, it is a proposal of how the upper floors should look in terms of fiber optic connections. Now I will leave a design of how the fiber optic headers are composed on the second floor in the rack A7 computer room.
+The image above illustrates a proposal of how the upper floors will look like in regard to the fiber optic connections on that floor. 
+
+The image below illustrates the design of how the optic headers are composed in rack A7 of the second-floor computer room. 
 
 Fiber Headers Images
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/cabeceras.jpg
     :name: cabeceras
     :width: 700 px
