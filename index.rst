@@ -212,7 +212,7 @@ Future Floor Image
 
 .. figure:: /_static/ittn-main/pisos-futuros.PNG
 	:name: piso futuro
-			:width: 700 px
+		:width: 700 px
 
 Fiber Headers
 -------------
