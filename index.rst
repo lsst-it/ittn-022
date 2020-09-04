@@ -27,8 +27,8 @@ Single-mode fiber was selected and installed due to its technical properties hen
 
 
 .. figure:: /_static/Tabla.PNG
-:name: Tabla
-:width: 700 px
+	:name: Tabla
+			:width: 700 px
 
  
 
@@ -74,8 +74,8 @@ First Floor:
 First Floor Image
 ^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/piso1.PNG
-:name: piso1
-:width: 700 px
+	:name: piso1
+			:width: 700 px
 
 
 Second Floor
@@ -100,8 +100,8 @@ In the following diagram, you can appreciate the various network points and the 
 Second Floor
 ^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/piso2.jpg
-:name: piso2
-:width: 700 px
+	:name: piso2
+			:width: 700 px
 
 Third Floor
 -----------
@@ -131,8 +131,8 @@ Coating Chamber Image
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/ittn-main/coating.PNG
-:name: coating
-:width: 700 px
+	:name: coating
+			:width: 700 px
 
 Camera Room
 -----------
@@ -148,8 +148,8 @@ Camera Room Image
 ^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/ittn-main/camera.PNG
-:name: camera
-:width: 700 px
+	:name: camera
+			:width: 700 px
 
 Level 3 Integration Lab
 -----------------------
@@ -161,8 +161,8 @@ Level 3 Integration Lab Image
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/ittn-main/integracion.jpg
-:name: integracion
-:width: 700 px
+	:name: integracion
+			:width: 700 px
 
 
 Please note that a Level 3 test lab environment will be set up in the future as a workaround to solve any networking requirements for the dome or any other inquiries.
@@ -193,8 +193,8 @@ In the following diagram illustrates the various network points and the location
 fifth-floor image
 ^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/piso5.png
-:name: piso5
-:width: 700 px
+	:name: piso5
+			:width: 700 px
 
 
 This rack is currently located in the electronics laboratory and has 24 fiber optic filaments that connect directly to rack A7 located in the main computer room on the second floor of the main building.
@@ -211,8 +211,8 @@ Future Floor Image
 ^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/ittn-main/pisos-futuros.PNG
-:name: piso futuro
-:width: 700 px
+	:name: piso futuro
+:			width: 700 px
 
 Fiber Headers
 -------------
@@ -224,8 +224,8 @@ The image below illustrates the design of how the optic headers are composed in 
 Fiber Headers Images
 ^^^^^^^^^^^^^^^^^^^^
 .. figure:: /_static/ittn-main/cabeceras.jpg
-:name: cabeceras
-:width: 700 px
+	:name: cabeceras
+			:width: 700 px
 
 .. fin de contenido
 
