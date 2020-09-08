@@ -249,6 +249,8 @@ Future Floor Image
 	:name: piso futuro
 		:width: 700 px
 
+Fiber Headers
+-------------
 
 The image above illustrates a proposal of how the upper floors will look like in regard to the fiber optic connections on that floor.
 
