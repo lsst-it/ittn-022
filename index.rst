@@ -43,7 +43,7 @@ In some occasions, multi-mode fiber cable connections will be set up and install
 Copper:
 ^^^^^^^
 
- It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. 
+It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. 
 
 Component Features 
 ^^^^^^^^^^^^^^^^^^
@@ -81,6 +81,7 @@ First Floor:
 
 First Floor Image
 ^^^^^^^^^^^^^^^^^
+
 .. figure:: /_static/ittn-main/piso1.PNG
 	:name: piso1
 			:width: 700 px
@@ -276,6 +277,7 @@ Fiber Headers Images
 .. figure:: /_static/ittn-main/cabeceras.jpg
 	:name: cabeceras
 			:width: 700 px
+			
 
 Acronyms
 ========
