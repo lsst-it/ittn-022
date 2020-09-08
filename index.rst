@@ -282,13 +282,7 @@ Fiber Headers Images
 Acronyms
 ========
 
-
-
-
-
-
-
-.. fin de contenido
+.. include:: document.rst 
 
 .. .. rubric:: References
 
