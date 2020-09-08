@@ -47,42 +47,6 @@ It is also noted that UTP S/FTP cables were also selected due to the cable prope
 
 Component Features 
 ^^^^^^^^^^^^^^^^^^
-.. _table-label:
-========= ===========
-Component Description
-========= ===========
-+----------------------+-------------------------------------------+
-| Type of cable        |      Meaning                              |
-+======================+===========================================+
-|                      |                                           |
-| Single-mode          | - Indoor and outdoor cable                |
-|                      | - LSZH                                    |
-|                      | - Contains 24 and 96 filaments            |
-|                      | - Contains kevlar                         |
-|                      | - 9µm/125µm                               |
-|                      | - 1310nm - 1550nm                         |
-|                      | - OS2                                     |
-|                      | - G.652D - G.657.A1                       |
-|                      |                                           |
-+----------------------+-------------------------------------------+
-|                      |                                           |
-| Multi-mode           | - Indoor and outdoor cable                |
-|                      | - LSZH                                    |
-|                      | - Contains 12 filaments                   |
-|                      | - Contains kevlar                         |
-|                      | - 50µm/125µm / 62.5µm/125µm               |
-|                      | - 8500nm - 1300nm                         |
-|                      | - OM1 - OM3                               |
-|                      |                                           |
-+----------------------+-------------------------------------------+
-|                      | - S/FTP                                   |
-| Copper cable         | - CAT6 - CAT6A                            |
-|                      | - 500Mhz                                  |
-|                      | - 23AWG                                   |
-|                      | - TIA/EIA-568-B                           |
-|                      |                                           |
-|                      |                                           |
-+----------------------+-------------------------------------------+
 
 
 Areas of interest
@@ -315,7 +279,6 @@ Acronyms
 ========
 
 .. include:: document.rst 
-.. include:: tabla1.rst 
 
 .. .. rubric:: References
 
