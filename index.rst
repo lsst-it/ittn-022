@@ -48,7 +48,7 @@ It is also noted that UTP S/FTP cables were also selected due to the cable prope
 Component Features 
 ^^^^^^^^^^^^^^^^^^
 
-.. include:: document2.rst 
+.. include:: Document2.rst 
 
 
 Areas of interest
