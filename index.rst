@@ -48,9 +48,7 @@ It is also noted that UTP S/FTP cables were also selected due to the cable prope
 Component Features 
 ^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/Tabla.PNG
-	:name: Tabla
-			:width: 700 px
+.. include:: document2.rst 
 
 
 Areas of interest
